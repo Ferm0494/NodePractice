@@ -1,0 +1,15 @@
+{
+  "name": "02",
+  "version": "2.0.0",
+  "description": "Aplicacion de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando rivas",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
